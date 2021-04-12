@@ -66,6 +66,8 @@ Reading Assignment
 * I’ve been guilty of having a fixed mindset far too often, and I’m working to change that. Things like wisdom and achievement are the products of putting in hard work, not avoiding it. We live in a society where the instant gratification monkey sits on everyone’s shoulder. But the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer. The right mindset, like the growth mindset, helps put things in perspective.
 * Maybe all this seems obvious to you, in which case, you’re lucky. For me, I’ve found that taking the time to assess what I’m doing is tremendously effective in keeping me on track at work. When I feel myself losing focus, I try to remember that short-term frustration will likely result in long-term improvement of my abilities – if I just stay with it. A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals.
 
+### Relative link
+[More Information](read01.md)
 
 # Basic writing and formatting syntax
 * Create sophisticated formatting for your prose and code on GitHub with simple syntax.
@@ -97,4 +99,12 @@ Reading Assignment
 ## Relative links
 * You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this
-[HHHHHHHHH](README.md)
+## Lists
+* You can make an unordered list by preceding one or more lines of text with - or * and order list by 1. 2. 3. 
+## Task lists
+* To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
+## Further reading
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+* ["About writing and formatting on GitHub"](https://docs.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
+* [Working with advanced formatting](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
