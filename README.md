@@ -84,3 +84,16 @@ Reading Assignment
 * You can quote text with a >.
 ## Quoting code
 * You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
+* Example 
+![ExampleImage](https://docs.github.com/assets/images/help/writing/inline-code-rendered.png)
+* To format code or text into its own distinct block, use triple backticks.
+### Example 
+![image](https://docs.github.com/assets/images/help/writing/code-block-rendered.png)
+## Links
+* You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
+[Autolinked references and URLS](https://docs.github.com/en/github/writing-on-github/autolinked-references-and-urls)
+## Section links
+* You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
+## Relative links
+* You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
+A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this
