@@ -65,3 +65,22 @@ Reading Assignment
 # Growing at work, and outside work too
 * I’ve been guilty of having a fixed mindset far too often, and I’m working to change that. Things like wisdom and achievement are the products of putting in hard work, not avoiding it. We live in a society where the instant gratification monkey sits on everyone’s shoulder. But the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer. The right mindset, like the growth mindset, helps put things in perspective.
 * Maybe all this seems obvious to you, in which case, you’re lucky. For me, I’ve found that taking the time to assess what I’m doing is tremendously effective in keeping me on track at work. When I feel myself losing focus, I try to remember that short-term frustration will likely result in long-term improvement of my abilities – if I just stay with it. A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals.
+
+
+# Basic writing and formatting syntax
+* Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+## Headings
+* To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
+![HeaddingImage](https://docs.github.com/assets/images/help/writing/headings-rendered.png)
+## Styling text 
+* You can indicate emphasis with bold, italic, or strikethrough text.
+* Styles Example:
+1. Bold
+2. Italic
+3. Strikethrough
+4. Bold and nested italic
+5. All bold and italic 
+## Quoting text
+* You can quote text with a >.
+## Quoting code
+* You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
