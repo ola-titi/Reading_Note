@@ -99,6 +99,7 @@ Reading Assignment
 ## Relative links
 * You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 ## Lists
 * You can make an unordered list by preceding one or more lines of text with - or * and order list by 1. 2. 3. 
 ## Task lists
@@ -107,4 +108,7 @@ A relative link is a link that is relative to the current file. For example, if 
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 * ["About writing and formatting on GitHub"](https://docs.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
 * [Working with advanced formatting](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## More Information 
+[More information](Moreinformation.md)
+
