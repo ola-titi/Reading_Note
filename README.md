@@ -7,7 +7,7 @@ Reading Assignment
 ### Listen to this blog
 !alias pushit="git push origin; open https://soundcloud.com/atlassian-software/perseverance-gumption-traps-and-maintaining-a-growth-mindset;"
 #!/bin/bash git push origin open https://soundcloud.com/atlassian-software/perseverance-gumption-traps-and-maintaining-a-growth-mindset
-##### unorder list 
+#### unorder list 
 * The concept of a growth mindset is a popular topic lately, and I sometimes say to myself “Self, you need to embrace the growth mindset. The growth mindset is cool.”
 * Why? The aptly named growth mindset helps us grow in whatever we pursue – especially in our work. When we’re growing, we’re more productive. And when I’m productive, I feel better. And you can, too.
 # What is a growth mindset?
