@@ -3,3 +3,4 @@
 ## Adding Image
 ![GrothmindVsfixedMind]"(https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
 
+#ggg# 
